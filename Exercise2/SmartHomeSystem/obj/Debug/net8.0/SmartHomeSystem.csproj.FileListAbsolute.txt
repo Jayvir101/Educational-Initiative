@@ -1,0 +1,14 @@
+/Users/jayvirsinhchavada/Desktop/Educational Initiative/Exercise2/SmartHomeSystem/obj/Debug/net8.0/SmartHomeSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jayvirsinhchavada/Desktop/Educational Initiative/Exercise2/SmartHomeSystem/obj/Debug/net8.0/SmartHomeSystem.AssemblyInfoInputs.cache
+/Users/jayvirsinhchavada/Desktop/Educational Initiative/Exercise2/SmartHomeSystem/obj/Debug/net8.0/SmartHomeSystem.AssemblyInfo.cs
+/Users/jayvirsinhchavada/Desktop/Educational Initiative/Exercise2/SmartHomeSystem/obj/Debug/net8.0/SmartHomeSystem.csproj.CoreCompileInputs.cache
+/Users/jayvirsinhchavada/Desktop/Educational Initiative/Exercise2/SmartHomeSystem/bin/Debug/net8.0/SmartHomeSystem
+/Users/jayvirsinhchavada/Desktop/Educational Initiative/Exercise2/SmartHomeSystem/bin/Debug/net8.0/SmartHomeSystem.deps.json
+/Users/jayvirsinhchavada/Desktop/Educational Initiative/Exercise2/SmartHomeSystem/bin/Debug/net8.0/SmartHomeSystem.runtimeconfig.json
+/Users/jayvirsinhchavada/Desktop/Educational Initiative/Exercise2/SmartHomeSystem/bin/Debug/net8.0/SmartHomeSystem.dll
+/Users/jayvirsinhchavada/Desktop/Educational Initiative/Exercise2/SmartHomeSystem/bin/Debug/net8.0/SmartHomeSystem.pdb
+/Users/jayvirsinhchavada/Desktop/Educational Initiative/Exercise2/SmartHomeSystem/obj/Debug/net8.0/SmartHomeSystem.dll
+/Users/jayvirsinhchavada/Desktop/Educational Initiative/Exercise2/SmartHomeSystem/obj/Debug/net8.0/refint/SmartHomeSystem.dll
+/Users/jayvirsinhchavada/Desktop/Educational Initiative/Exercise2/SmartHomeSystem/obj/Debug/net8.0/SmartHomeSystem.pdb
+/Users/jayvirsinhchavada/Desktop/Educational Initiative/Exercise2/SmartHomeSystem/obj/Debug/net8.0/SmartHomeSystem.genruntimeconfig.cache
+/Users/jayvirsinhchavada/Desktop/Educational Initiative/Exercise2/SmartHomeSystem/obj/Debug/net8.0/ref/SmartHomeSystem.dll
